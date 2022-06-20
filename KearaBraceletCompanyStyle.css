@@ -1,0 +1,14 @@
+*
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.links
+{
+    text-align: center;
+    font-size: 25px;
+    background-color: hsl(192, 65%, 85%);
+}
